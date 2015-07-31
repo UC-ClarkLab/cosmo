@@ -1,0 +1,91 @@
+[Atom List Editor]
+Last Hilite Options=001
+Last Show Column=11111000000000000111100000000000111110000000
+
+[Builder]
+Current Custom Fragment Library Path=/scr/fragments-9_16_2009_11_41_03
+Custom Fragment Library Paths=/scr/fragments-9_16_2009_11_41_03
+Custom Fragments Window/Height=300
+Custom Fragments Window/Width=400
+Custom Fragments Window/X=0
+Custom Fragments Window/Y=26
+
+[Gaussian Dialog]
+Link0 String=%nprocshared=1\n%mem=3700MB\n%chk={parent file name}.chk
+Memory Limit=3700MB
+Memory Limit Options=1
+Model Data - Layer 0/Basis Set - Base=2
+Model Data - Layer 0/Basis Set - Heavy Polarization=1
+Model Data - Layer 0/Ground State Model=3
+Number of Shared Processors Options=1
+Write Connectivity=false
+
+[General Preferences]
+App Window Tool Bar Data=\n\n\nBuilder,File,Molecule,Coordinates,View,Calculate,Windows,\n[Builder,0,0,-1,-1,1][File,0,0,-1,-1,1][Molecule,0,0,-1,-1,1][Coordinates,0,0,-1,-1,1][View,0,0,-1,-1,1][Calculate,0,0,-1,-1,1][Windows,0,0,-1,-1,1]\nFragment View - Positioning Tools,\n[Fragment View - Positioning Tools,0,0,-1,-1,0]\n\n\n\n\n
+Application Height=239
+Application Location - X=16
+Application Location - Y=45
+Application Width=951
+Builder on Top=false
+Custom Basis=\0
+Custom Methods=m06l^eamber=hardfirst^eamber=(softfirst,lastequiv)^e
+External Job Commands=\0
+Final Directory=/home/jamin/tdavenpo
+Gaussian Schemes=\0
+Image Capture - Object Quality=100
+Image Capture - Use White Background=true
+Recent Files=/home/jamin/tdavenpo/rubsi2.chk_;_FT=7_;_FO=0^e/home/jamin/tdtest/euopt1.com_;_FT=5_;_FO=0^e/home/jamin/tdtest/LELRUP.mol2_;_FT=20_;_FO=1^e/home/jamin/tdtest/tiquarttdopt2.out_;_FT=6_;_FO=1^e
+Scratch Directory=$(GAUSS_SCRDIR)
+View Height=775
+View Location - X=8
+View Location - Y=315
+View Width=988
+
+[Graphic Defs]
+SurfaceColor0 - ambient - blue=  1.00000000E+00
+SurfaceColor0 - ambient - red=  0.00000000E+00
+SurfaceColor0 - diffuse - blue=  1.00000000E+00
+SurfaceColor0 - diffuse - red=  0.00000000E+00
+SurfaceColor8 - ambient - green=  4.98039216E-01
+SurfaceColor8 - ambient - red=  4.98039216E-01
+SurfaceColor8 - diffuse - green=  4.98039216E-01
+SurfaceColor8 - diffuse - red=  4.98039216E-01
+SurfaceColor9 - ambient - green=  1.00000000E+00
+SurfaceColor9 - ambient - red=  1.00000000E+00
+SurfaceColor9 - diffuse - green=  1.00000000E+00
+SurfaceColor9 - diffuse - red=  1.00000000E+00
+
+[Help]
+Current Tip Index=1
+Show Tips on Startup=2
+Tips Height=287
+Tips Width=449
+Tips X=0
+Tips Y=0
+
+[Job Preferences]
+FormChk Custom Command Line=@FORMCHK @INFILE @OUTFILE
+FormChk Execution Mode=1
+Formchk Memory Units=4
+Formchk Memory Value=2000
+Gaussian Custom Command Line=run_gaussian @INFILE
+Gaussian Execution Mode=2
+
+[PDB Residue Editor]
+Last Hilite Options=0
+Last Show Column=1111111111111
+
+[PDB Secondary Structure Editor]
+Last Hilite Options=1
+Last Show Column=1111111111111111
+
+[Semichem Smartslide]
+Angle Displacement=020
+Bond Displacement=00
+Dihedral Displacement=0000
+
+[View Format]
+Background Color=4278190080
+Font Color=4278255360
+Static Quality=100
+
